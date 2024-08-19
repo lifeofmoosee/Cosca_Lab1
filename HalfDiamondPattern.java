@@ -7,6 +7,8 @@ public class HalfDiamondPattern {
         int numRows = input.nextInt();
 
         // Upper half of the pattern
+            System.out.println("*");
+        
         for (int i = 1; i <= numRows; i++) {
             // Print stars
             System.out.print("*");
@@ -43,5 +45,6 @@ public class HalfDiamondPattern {
             // Print ending star and newline
             System.out.println("*");
         }
+            System.out.println("*");
     }
 }
