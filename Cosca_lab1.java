@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HalfDiamondPattern {
+public class Cosca_lab1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number: ");
